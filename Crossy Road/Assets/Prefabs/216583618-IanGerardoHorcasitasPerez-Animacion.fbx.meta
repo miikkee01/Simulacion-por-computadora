@@ -1,0 +1,376 @@
+fileFormatVersion: 2
+guid: 3404702595ee59845a474d4f91c8d223
+ModelImporter:
+  serializedVersion: 21300
+  internalIDToNameTable:
+  - first:
+      74: -7743399285013460511
+    second: Camera|arbol 1Action
+  - first:
+      74: 8440248360967096626
+    second: Camera|CameraAction
+  - first:
+      74: 1587152391932048548
+    second: Camera|Car.001Action
+  - first:
+      74: 5796908537615640693
+    second: Camera|Car.004Action
+  - first:
+      74: 3269723890697893111
+    second: Camera|Car.005Action
+  - first:
+      74: -4655973749751879247
+    second: Camera|CarAction
+  - first:
+      74: 4357253410488349700
+    second: Camera|CarAction.002
+  - first:
+      74: 2572913438116092147
+    second: Camera|CarAction.003
+  - first:
+      74: -937318488617099321
+    second: Camera|MetAction
+  - first:
+      74: -6316064645960292737
+    second: Met|arbol 1Action
+  - first:
+      74: 4461764110896168248
+    second: Met|CameraAction
+  - first:
+      74: 26386686622563004
+    second: Met|Car.001Action
+  - first:
+      74: -3551755634558604962
+    second: Met|Car.004Action
+  - first:
+      74: -373729453295678294
+    second: Met|Car.005Action
+  - first:
+      74: 5790404715681576814
+    second: Met|CarAction
+  - first:
+      74: -5878321722495803677
+    second: Met|CarAction.002
+  - first:
+      74: 1208852906973428282
+    second: Met|CarAction.003
+  - first:
+      74: -8898433685785415365
+    second: Met|MetAction
+  - first:
+      74: -8020837868536785393
+    second: Car|arbol 1Action
+  - first:
+      74: 202427784270190922
+    second: Car|CameraAction
+  - first:
+      74: 436221585582375165
+    second: Car|Car.001Action
+  - first:
+      74: 5024739493893442058
+    second: Car|Car.004Action
+  - first:
+      74: -9036876155622574569
+    second: Car|Car.005Action
+  - first:
+      74: 8019737035255340166
+    second: Car|CarAction
+  - first:
+      74: 5730523876076950974
+    second: Car|CarAction.002
+  - first:
+      74: -4629413569587247934
+    second: Car|CarAction.003
+  - first:
+      74: 4658293398214782731
+    second: Car|MetAction
+  - first:
+      74: 1839914846120883442
+    second: Car.001|arbol 1Action
+  - first:
+      74: -7752251206084497183
+    second: Car.001|CameraAction
+  - first:
+      74: -1419202776513697845
+    second: Car.001|Car.001Action
+  - first:
+      74: -62169358739459775
+    second: Car.001|Car.004Action
+  - first:
+      74: 8277571646854116244
+    second: Car.001|Car.005Action
+  - first:
+      74: -4529729675158092245
+    second: Car.001|CarAction
+  - first:
+      74: -5768114879855118213
+    second: Car.001|CarAction.002
+  - first:
+      74: 8236478636026570733
+    second: Car.001|CarAction.003
+  - first:
+      74: -1009818435956556429
+    second: Car.001|MetAction
+  - first:
+      74: 7024299340074798325
+    second: Car.002|arbol 1Action
+  - first:
+      74: 8799881290637561274
+    second: Car.002|CameraAction
+  - first:
+      74: 5691153369445943515
+    second: Car.002|Car.001Action
+  - first:
+      74: -3402170426193375494
+    second: Car.002|Car.004Action
+  - first:
+      74: 3957825521608284162
+    second: Car.002|Car.005Action
+  - first:
+      74: -1342067181063839738
+    second: Car.002|CarAction
+  - first:
+      74: 2302886475511892618
+    second: Car.002|CarAction.002
+  - first:
+      74: -306165000510501791
+    second: Car.002|CarAction.003
+  - first:
+      74: 7534135875915730528
+    second: Car.002|MetAction
+  - first:
+      74: -1655006724516033567
+    second: Car.003|arbol 1Action
+  - first:
+      74: -7100284885697753720
+    second: Car.003|CameraAction
+  - first:
+      74: -6738662484367626573
+    second: Car.003|Car.001Action
+  - first:
+      74: -4373674912932310696
+    second: Car.003|Car.004Action
+  - first:
+      74: -5851019593421335870
+    second: Car.003|Car.005Action
+  - first:
+      74: 7640593735235550149
+    second: Car.003|CarAction
+  - first:
+      74: -862054361498408456
+    second: Car.003|CarAction.002
+  - first:
+      74: -6714193560330686668
+    second: Car.003|CarAction.003
+  - first:
+      74: -8261154173174697086
+    second: Car.003|MetAction
+  - first:
+      74: -7277786933420736297
+    second: Car.004|arbol 1Action
+  - first:
+      74: -6240692616792496143
+    second: Car.004|CameraAction
+  - first:
+      74: 5788658929066929595
+    second: Car.004|Car.001Action
+  - first:
+      74: 1184228457740638992
+    second: Car.004|Car.004Action
+  - first:
+      74: -7626535673670208287
+    second: Car.004|Car.005Action
+  - first:
+      74: -748605442288345958
+    second: Car.004|CarAction
+  - first:
+      74: -8137978085397589358
+    second: Car.004|CarAction.002
+  - first:
+      74: -2493739675899384984
+    second: Car.004|CarAction.003
+  - first:
+      74: 6628823884308688098
+    second: Car.004|MetAction
+  - first:
+      74: 6339660394071837863
+    second: Cube.094|arbol 1Action
+  - first:
+      74: -706311898458571132
+    second: Cube.094|CameraAction
+  - first:
+      74: 3120388069135453463
+    second: Cube.094|Car.001Action
+  - first:
+      74: -2931398332151246882
+    second: Cube.094|Car.004Action
+  - first:
+      74: -3491911376781190917
+    second: Cube.094|Car.005Action
+  - first:
+      74: 3725731832752459943
+    second: Cube.094|CarAction
+  - first:
+      74: 4090137481654141089
+    second: Cube.094|CarAction.002
+  - first:
+      74: -8128005186558276044
+    second: Cube.094|CarAction.003
+  - first:
+      74: -7762132719857059317
+    second: Cube.094|MetAction
+  - first:
+      74: 1304343352658707367
+    second: Car.005|arbol 1Action
+  - first:
+      74: 6008143832690418437
+    second: Car.005|CameraAction
+  - first:
+      74: 3535879238882062676
+    second: Car.005|Car.001Action
+  - first:
+      74: 413940280547763943
+    second: Car.005|Car.004Action
+  - first:
+      74: 6381588678916669084
+    second: Car.005|Car.005Action
+  - first:
+      74: 8436413413951864418
+    second: Car.005|CarAction
+  - first:
+      74: 1563008842603544625
+    second: Car.005|CarAction.002
+  - first:
+      74: 5838401968930555716
+    second: Car.005|CarAction.003
+  - first:
+      74: -9014452622567628589
+    second: Car.005|MetAction
+  - first:
+      74: -3650415295724910962
+    second: arbol 1|arbol 1Action
+  - first:
+      74: -1224955272878911205
+    second: arbol 1|CameraAction
+  - first:
+      74: 1494419207569111923
+    second: arbol 1|Car.001Action
+  - first:
+      74: 2181123219901596000
+    second: arbol 1|Car.004Action
+  - first:
+      74: -3001441347740168331
+    second: arbol 1|Car.005Action
+  - first:
+      74: -6734801513970813552
+    second: arbol 1|CarAction
+  - first:
+      74: 4093574224069874295
+    second: arbol 1|CarAction.002
+  - first:
+      74: 2074880015366995702
+    second: arbol 1|CarAction.003
+  - first:
+      74: 5543107457274141289
+    second: arbol 1|MetAction
+  externalObjects: {}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 1
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
